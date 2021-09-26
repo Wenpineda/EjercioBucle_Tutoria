@@ -1,0 +1,7 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO II\POO\Practica y Tutorias\Buclejercicio\Buclejercicio\bin\Debug\Buclejercicio.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO II\POO\Practica y Tutorias\Buclejercicio\Buclejercicio\bin\Debug\Buclejercicio.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO II\POO\Practica y Tutorias\Buclejercicio\Buclejercicio\bin\Debug\Buclejercicio.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO II\POO\Practica y Tutorias\Buclejercicio\Buclejercicio\obj\Debug\Buclejercicio.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO II\POO\Practica y Tutorias\Buclejercicio\Buclejercicio\obj\Debug\Buclejercicio.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO II\POO\Practica y Tutorias\Buclejercicio\Buclejercicio\obj\Debug\Buclejercicio.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO II\POO\Practica y Tutorias\Buclejercicio\Buclejercicio\obj\Debug\Buclejercicio.pdb
